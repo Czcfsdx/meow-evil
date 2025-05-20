@@ -1,12 +1,10 @@
-#+title: Meow-evil
+#+title: Meow
 
 * Introduction
 
 [[https://github.com/meow-edit/meow][Meow]] is a great modal editing mode for Emacs. I love it's concept: using kmacro for normal mode keybind, keypad inspired by [[https://github.com/emacsorphanage/god-mode][god-mode]], select before execute an action which is more like [[https://kakoune.org/][kakoune]] ...
 
-But it is too hard for me (come from a Vim background) to be adapted to it. So I forked Mewo and try to make it more 'evil' (as many emacs user know, [[https://github.com/emacs-evil/evil][evil]] is just like vim in emacs)
-
-However, different people have different understanding of vim and emacs. So it may not 'evil' in other people opinions. Emacs is free, welcome to create your version of mewo-evil.
+But it is too hard for me (come from a Vim background) to be adapted to it. So I forked it and make my version of meow
 
 * License
 
